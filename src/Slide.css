@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+#listra {
+    display: flex;
+    height: 300px;
+    width: 205px*20;
+}
+#img {
+    
+    margin: 2.5px;
+}
+
+#img:hover {
+    transition: all 10s;
+   
+}
+p {
+    margin: 20px;
+}
